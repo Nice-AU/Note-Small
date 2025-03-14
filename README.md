@@ -22,6 +22,8 @@ Note so = new Note();
         so.heading("test");
     }
     
+If you want to get the source, so you can contact me.
+
 Nice Application 1
 (C) NA1 2023
 NiceApplication1.BlogSpot.Com
