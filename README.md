@@ -1,6 +1,8 @@
 # Note-Small
 About- The OnlyNote Jar with spell checker for just import, to save time, it's a small note for anyone who needs, built with Java Swing by Nice Application 1. 
 
+![Note](NA Note0.gif)
+
 How to use-
 The OnlyNote Jar with spell checker for just import & call class name to save time, it's a small note for anyone who needs, build with Java Swing by Nice Application 1
 
