@@ -24,6 +24,8 @@ Note so = new Note();
     
 If you want to get the source, so you can contact me. https://forms.office.com/r/rUZukcf9bB
 
+While installing your software in the user system, make sure to put the Note folder in the given directory. Alternatively, you can contact for the source code to change the location of the Note folder. The source code is free.
+
 Nice Application 1
 (C) NA1 2023
 NiceApplication1.BlogSpot.Com
