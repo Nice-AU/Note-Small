@@ -3,7 +3,7 @@ About- The OnlyNote Jar with spell checker for just import, to save time, it's a
 
 <img src="NA Note0.gif" height="340px"><hr>
 
-How to use-
+Software-
 The OnlyNote Jar with spell checker for just import & call class name to save time, it's a small note, build with Java Swing by Nice Application 1
 
 Make a folder in the C drive as the path by the below link- 
