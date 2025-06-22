@@ -1,10 +1,10 @@
 # Note-Small
-About- The OnlyNote Jar with spell checker for just import, to save time, it's a small note for anyone who needs, built with Java Swing by Nice Application 1. 
+About- The OnlyNote Jar with spell checker for just import, to save time, it's a small note, built with Java Swing by Nice Application 1. 
 
 <img src="NA Note0.gif" height="340px"><hr>
 
 How to use-
-The OnlyNote Jar with spell checker for just import & call class name to save time, it's a small note for anyone who needs, build with Java Swing by Nice Application 1
+The OnlyNote Jar with spell checker for just import & call class name to save time, it's a small note, build with Java Swing by Nice Application 1
 
 Make a folder in the C drive as the path by the below link- 
 -C:\Alan 
@@ -16,10 +16,10 @@ Add the Note Jar "OnlyNote" from the dist folder & all lib jar's to your library
 Then import the jar in your class-
 -import onlynote.Note;
 Then call the note as a given example below. 
-Note so = new Note();
+Note note = new Note();
     public void TestNote() {
-        so.setVisible(true);
-        so.heading("test");
+        note.setVisible(true);
+        note.heading("test");
     }
     
 If you want to get the source, so you can contact me. https://forms.office.com/r/rUZukcf9bB
